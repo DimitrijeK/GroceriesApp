@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfCacheFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CacheFile>
+    <FileName>Properties\Resources.resx</FileName>
+    <Checksum>12216201113491252518723768117120918818543</Checksum>
+    <ModifiedTime>2018-06-11T12:14:45.1525726</ModifiedTime>
+    <CacheFileType>NeutralResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Nabavka.sr-Latn-RS.xlf</FileName>
+    <Checksum>16946116230535117923274551499716023125036</Checksum>
+    <ModifiedTime>2018-06-13T11:44:27.9051371+02:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Properties\Resources.sr-Latn-RS.resx</FileName>
+    <Checksum>19525178173832441949178108532091416317160</Checksum>
+    <ModifiedTime>2018-06-13T11:44:28.0161371+02:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>MultilingualResources\Nabavka.sr-Latn.xlf</FileName>
+    <Checksum>4317710622781831221241017797147148557738</Checksum>
+    <ModifiedTime>2018-06-13T11:44:27.8981371+02:00</ModifiedTime>
+    <CacheFileType>XliffResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+  <CacheFile>
+    <FileName>Properties\Resources.sr-Latn.resx</FileName>
+    <Checksum>19525178173832441949178108532091416317160</Checksum>
+    <ModifiedTime>2018-06-13T11:44:28.0231371+02:00</ModifiedTime>
+    <CacheFileType>LanguageResource</CacheFileType>
+    <WarningMessage />
+  </CacheFile>
+</ArrayOfCacheFile>
